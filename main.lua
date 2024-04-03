@@ -139,3 +139,6 @@ a = 1
 if a then
     print("a")    
 end
+
+local str = "22"
+print(type(tonumber(str)))
