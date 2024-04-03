@@ -1,4 +1,5 @@
 local a = 5
+local b = false
 
 while a > 0 do
     print(a , "going")
