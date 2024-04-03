@@ -3,5 +3,6 @@ print("Funny")
 local table = {
     one,
     two,
-    three
+    three,
+    five
 }
