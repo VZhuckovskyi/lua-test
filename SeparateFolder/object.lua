@@ -4,3 +4,5 @@ local table = {
     two,
     three
 }
+
+local str = "base string"
