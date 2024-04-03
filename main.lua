@@ -137,5 +137,5 @@ print(a + b)
 
 a = 1
 if a then
-    print("a")    
+    print("b")    
 end
