@@ -135,7 +135,7 @@ print(math.rad(50))
 local a, b = 5, 6
 print(a + b)
 
-a = 1
+a = 2
 if a then
     print("b")    
 end
