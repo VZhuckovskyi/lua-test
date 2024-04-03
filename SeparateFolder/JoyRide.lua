@@ -1,4 +1,4 @@
-local a = 5
+local a = 7
 local b = false
 local c = "c++ string"
 
