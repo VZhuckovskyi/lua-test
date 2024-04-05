@@ -6,3 +6,4 @@ local table = {
 }
 
 local str = "base string"
+local str2
